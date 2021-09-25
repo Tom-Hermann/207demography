@@ -1,4 +1,4 @@
-# 206neutrinos
+# 207demography
 
 The world population growth is a cause for concern for most people: 1 billion people in 1800, 2 billion people in 1927, 6 billion people in 2000 and more than 7.5 billion people today. . .
 
@@ -32,20 +32,20 @@ The project compile with *Makefile*:
 For compile the project use the commande:
 
 ```console
-foo@bar:~/206neutrinos$ make re
+foo@bar:~/207demography$ make re
 ```
 
 For clean the project use:
 
 ```console
-foo@bar:~/206neutrinos$ make fclean
+foo@bar:~/207demography$ make fclean
 ```
 
 Get instruction with:
 
 
 ```console
-foo@bar:~/206neutrinos$ ./206neutrinos -h
+foo@bar:~/207demography$ ./207demography -h
 ```
 
 ## Example
